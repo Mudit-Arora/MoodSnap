@@ -1,0 +1,2 @@
+# MoodSnap
+CalHacks project
